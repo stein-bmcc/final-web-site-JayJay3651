@@ -30,8 +30,8 @@ a{
     border-bottom: 1px solid #1313f1;
 }
 a:hover{
-    color: #0fa4df;
-    border-bottom: 3px solid #0fa4df;
+    color: lavender;
+    border-bottom: 3px solid; 
 }
 a:visited{
     color: #1313f1;
@@ -100,4 +100,12 @@ img,video{
     left: 0;
     width: 100%;
     height: 100%;
+  }
+
+  body { 
+    background-color: lavenderblush;
+    color: darkcyan;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
   }
